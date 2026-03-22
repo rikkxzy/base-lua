@@ -1,2 +1,0 @@
-# base-lua
-CÓDIGO BASE ARQUIVO .LUA SAMP
